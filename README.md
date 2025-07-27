@@ -9,18 +9,29 @@ https://yashkapoor279.github.io/Mypfc/
 
 Features:
 Circular profile image with border
+
 Name and role display
+
 Social icons (LinkedIn, GitHub, Upwork)
+
 "Get In-Touch" and "Message" buttons
+
 Like, comment, and share icons with counters
+
 Smooth hover effects and styling
+
 
 ---
 
 Technologies Used:
 HTML5
+
 CSS3 (Flexbox, styling, transitions)
-Use Cases:
+
+
+
+
+
 Personal portfolio websites
 Developer or freelancer cards
 UI/UX practice project
