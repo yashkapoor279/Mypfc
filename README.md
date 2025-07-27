@@ -24,16 +24,17 @@ Smooth hover effects and styling
 ---
 
 Technologies Used:
+
 HTML5
 
 CSS3 (Flexbox, styling, transitions)
 
-
-
-
+Use Cases :
 
 Personal portfolio websites
+
 Developer or freelancer cards
+
 UI/UX practice project
 
 Author: Yash Kapoor
